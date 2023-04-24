@@ -7,3 +7,7 @@
 
 - import with: \
   winget import -i .\winget.json --accept-package-agreements
+
+## manual apps
+
+- jottacloud
