@@ -2,8 +2,8 @@
 
 - run powershell as admin
 
-- export with:
+- export with: \
   winget export -o .\winget.json
 
-- import with:
+- import with: \
   winget import -i .\winget.json --accept-package-agreements
