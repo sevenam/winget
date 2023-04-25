@@ -7,11 +7,14 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier": "Pulumi.Pulumi"
+				},
+				{
 					"PackageIdentifier" : "Neovim.Neovim"
 				},
 				{
 					"PackageIdentifier" : "Region to Share"
-				},
+				}
 				{
 					"PackageIdentifier" : "AgileBits.1Password"
 				},
