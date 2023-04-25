@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier" : "Neovim.Neovim"
+				},
+				{
 					"PackageIdentifier" : "Region to Share"
 				},
 				{
