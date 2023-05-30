@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier":  "Microsoft.VCRedist.2015+.x64"
+				},
+				{
 					"PackageIdentifier": "WinSCP.WinSCP"
 				},
 				{
