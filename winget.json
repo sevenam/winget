@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier":  "cURL.cURL"
+				},
+				{
 					"PackageIdentifier":  "Microsoft.VCRedist.2015+.x64"
 				},
 				{
