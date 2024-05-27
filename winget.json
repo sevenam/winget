@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier":  "icsharpcode.ILSpy"
+				},
+				{
 					"PackageIdentifier":  "GitHub.cli"
 				},
 				{
