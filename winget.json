@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier":  "Microsoft.Sysinternals.ProcessExplorer"
+				},
+				{
 					"PackageIdentifier":  "Microsoft.Sysinternals.ProcessMonitor"
 				},
 				{
