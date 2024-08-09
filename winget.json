@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier":  "JanDeDobbeleer.OhMyPosh"
+				},
+				{
 					"PackageIdentifier":  "Microsoft.Sysinternals.ProcessExplorer"
 				},
 				{
