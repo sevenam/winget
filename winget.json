@@ -55,7 +55,7 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Professional"
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Enterprise"
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu.2204"
@@ -88,7 +88,7 @@
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Professional.Preview"
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Enterprise.Preview"
 				},
 				{
 					"PackageIdentifier" : "Axosoft.GitKraken"
