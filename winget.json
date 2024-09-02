@@ -5,7 +5,9 @@
 	[
 		{
 			"Packages" : 
-			[
+			[	{
+					"PackageIdentifier":  "junegunn.fzf"
+				},
 				{
 					"PackageIdentifier":  "zig.zig"
 				},
