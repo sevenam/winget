@@ -7,6 +7,9 @@
 			"Packages" : 
 			[	
 				{
+					"PackageIdentifier":  "BurntSushi.ripgrep.MSVC"
+				},
+				{
 					"PackageIdentifier":  "DenoLand.Deno"
 				},
 				{
