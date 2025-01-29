@@ -6,6 +6,9 @@
 		{
 			"Packages" : 
 			[	{
+					"PackageIdentifier":  "Rustlang.Rustup"
+				},
+				{
 					"PackageIdentifier":  "astral-sh.uv"
 				},
 				{
