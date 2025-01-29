@@ -5,7 +5,9 @@
 	[
 		{
 			"Packages" : 
-			[	
+			[	{
+					"PackageIdentifier":  "astral-sh.uv"
+				},
 				{
 					"PackageIdentifier":  "BurntSushi.ripgrep.MSVC"
 				},
