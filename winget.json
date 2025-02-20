@@ -5,7 +5,11 @@
 	[
 		{
 			"Packages" : 
-			[	{
+			[	
+				{
+					"PackageIdentifier":  "pnpm.pnpm"
+				},
+				{
 					"PackageIdentifier":  "Rustlang.Rustup"
 				},
 				{
@@ -129,9 +133,6 @@
 					"PackageIdentifier" : "GitHub.GitLFS"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3.10"
-				},
-				{
 					"PackageIdentifier" : "GoLang.Go.1.20"
 				},
 				{
@@ -157,9 +158,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
