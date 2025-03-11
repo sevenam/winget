@@ -7,6 +7,9 @@
 			"Packages" : 
 			[	
 				{
+					"PackageIdentifier":  "warp.warp"
+				},
+				{
 					"PackageIdentifier":  "pnpm.pnpm"
 				},
 				{
