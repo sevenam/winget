@@ -109,9 +109,6 @@
 					"PackageIdentifier" : "Insomnia.Insomnia"
 				},
 				{
-					"PackageIdentifier" : "SlackTechnologies.Slack"
-				},
-				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
 				},
 				{
