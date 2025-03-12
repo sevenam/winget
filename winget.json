@@ -82,16 +82,10 @@
 					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
-					"PackageIdentifier" : "Mozilla.Firefox.DeveloperEdition"
-				},
-				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
 					"PackageIdentifier" : "Insecure.Nmap"
