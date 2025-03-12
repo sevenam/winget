@@ -151,9 +151,6 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
