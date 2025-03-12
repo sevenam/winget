@@ -124,7 +124,7 @@
 					"PackageIdentifier" : "GitHub.GitLFS"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go.1.20"
+					"PackageIdentifier" : "GoLang.Go"
 				},
 				{
 					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
