@@ -82,9 +82,6 @@
 					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
-					"PackageIdentifier" : "Docker.DockerDesktop"
-				},
-				{
 					"PackageIdentifier" : "Mozilla.Firefox.DeveloperEdition"
 				},
 				{
