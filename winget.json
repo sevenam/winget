@@ -5,7 +5,9 @@
 	[
 		{
 			"Packages" : 
-			[	
+			[	{
+					"PackageIdentifier":  "Obsidian.Obsidian"
+				},
 				{
 					"PackageIdentifier":  "warp.warp"
 				},
