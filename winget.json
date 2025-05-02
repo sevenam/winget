@@ -6,6 +6,9 @@
 		{
 			"Packages" : 
 			[	{
+					"PackageIdentifier":  "Microsoft.Azure.FunctionsCoreTools"
+				},
+				{
 					"PackageIdentifier":  "Obsidian.Obsidian"
 				},
 				{
