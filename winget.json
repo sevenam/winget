@@ -5,7 +5,11 @@
 	[
 		{
 			"Packages" : 
-			[	{
+			[	
+				{
+					"PackageIdentifier":  "wez.wezterm"
+				},
+				{
 					"PackageIdentifier":  "Microsoft.Azure.FunctionsCoreTools"
 				},
 				{
